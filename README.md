@@ -12,4 +12,6 @@ add their property and can view their booking details.
 Customer can see a list of houses and they can book their
 houses. The seller also has rights to accept or
 decline the bookings.
+ 1. HOME PAGE
+ ![home](https://user-images.githubusercontent.com/60132451/119530754-f0f5f500-bda0-11eb-8fd5-1dbf92406281.png)
 
