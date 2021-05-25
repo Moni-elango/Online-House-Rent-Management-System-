@@ -14,4 +14,5 @@ houses. The seller also has rights to accept or
 decline the bookings.
  1. HOME PAGE
  ![home](https://user-images.githubusercontent.com/60132451/119530754-f0f5f500-bda0-11eb-8fd5-1dbf92406281.png)
-
+ 2. ADMIN LOGIN
+ ![Admin login](https://user-images.githubusercontent.com/60132451/119531501-9d37db80-bda1-11eb-9aea-7f4aab392655.png)
