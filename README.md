@@ -49,30 +49,26 @@ Technologies uesd: C# .NET, SQL Server
  
 ![user Registration](https://user-images.githubusercontent.com/60132451/119532709-c2791980-bda2-11eb-9784-8e8ad7fabcea.png)
 
-2. USER LOGIN
-
-![user Login](https://user-images.githubusercontent.com/60132451/119532743-c9a02780-bda2-11eb-85b4-a510285daad3.png)
-
-3. USER PANEL
+2.USER PANEL
 
 ![User panel](https://user-images.githubusercontent.com/60132451/119532762-cefd7200-bda2-11eb-8470-924dd8046c06.png)
 
-4. DISPLAY HOUSE DETAILS
+3 DISPLAY HOUSE DETAILS
 ![Display house Details](https://user-images.githubusercontent.com/60132451/119532819-dde42480-bda2-11eb-9a73-003a23b17fda.png)
 
-5. BOOKING STATUS
+4.BOOKING STATUS
 
 ![Booking Status](https://user-images.githubusercontent.com/60132451/119532869-e6d4f600-bda2-11eb-854a-9e79af46ec5e.png)
 
-6. HOUSE BOOKING
+5 HOUSE BOOKING
 
 ![House Booking](https://user-images.githubusercontent.com/60132451/119532994-0bc96900-bda3-11eb-935f-634fc3c9b6a3.png)
 
-7. BOOKING CANCELLATION
+6 BOOKING CANCELLATION
 
 ![Booking Cancellation](https://user-images.githubusercontent.com/60132451/119533008-0ec45980-bda3-11eb-8602-7c67b463ae36.png)
 
-8. CONFIRM BOOKING
+7 CONFIRM BOOKING
 
 ![confirm Booking](https://user-images.githubusercontent.com/60132451/119533052-18e65800-bda3-11eb-9fcb-ef6fe67ae69e.png)
 
